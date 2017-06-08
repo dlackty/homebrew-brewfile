@@ -31,6 +31,7 @@ brew "wget"
 brew "xcenv"
 brew "youtube-dl"
 brew "zsh"
+brew "antigen"
 brew "thoughtbot/formulae/rcm"
 
 cask "1password"
